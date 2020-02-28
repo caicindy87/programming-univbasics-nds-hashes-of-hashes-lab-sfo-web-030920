@@ -48,5 +48,9 @@ bio_classification = {
       sub_category: {
        label: "Class"}
 }
+    
+  }
+  
+}
 
 end
