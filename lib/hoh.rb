@@ -46,7 +46,7 @@ bio_classification = {
    sub_category: {
      label: "Phylum",
      sub_category: {
-#       label: "Class"
+       label: "Class"
 }
 
 end
